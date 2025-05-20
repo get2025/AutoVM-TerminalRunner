@@ -1,5 +1,0 @@
- vmware_path = r"C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe"
-
-
-
- vmx_path = os.path.expandvars(rf"C:\Users\alok8\OneDrive\Documents\Virtual Machines\{vm_name}\{vm_name}.vmx")
